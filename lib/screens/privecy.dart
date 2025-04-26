@@ -28,7 +28,7 @@ class PrivacyPage extends StatelessWidget {
             children: [
               const SizedBox(height: 50),
               const Icon(Icons.privacy_tip_rounded,
-                  size: 80, color: AppColors.primary),
+                  size: 80, color: AppColors.secondary),
               const SizedBox(height: 20),
               const Text(
                 'سياسة الخصوصية',
